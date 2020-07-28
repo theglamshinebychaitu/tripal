@@ -10,6 +10,7 @@ if you found any match then you can talk with his/her and plan your tarvel with 
 Also you add as favourite that matches for your future contacts.
 
 **PlayStore:-** [link](https://play.google.com/store/apps/details?id=com.tripal360)
+**AppStore:-** [link](https://apps.apple.com/tt/app/tripal360/id1491809615)
 
 ### Tripal 360 Screen Shots
 
